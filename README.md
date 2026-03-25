@@ -10,3 +10,9 @@ Don't forget to add an enter after each paper, otherwise they will all clump in 
 
 In case you do a slide presentation or prepared notes for a presentation on the blackboard, it would also be nice to put the document
 here with the format yymmdd_presentation
+
+## Markdown
+
+In case you are not familiar with markdown, this cheatsheet gives all of the relevant structures:
+
+https://github.com/im-luka/markdown-cheatsheet
