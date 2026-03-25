@@ -2,8 +2,9 @@
 
 ## Arxiv review
 
-I would recommed adding the relevant papers inside of the file I'll create at the beginning of each week called yymmdd_papers, you can
-write your name after a hashtag and simply add all the papers there.
+I would recommed adding the relevant papers inside of the file I'll create at the beginning of each week called yymmdd_papers.md, you can
+write your name after two hashtags and simply add all the papers there. The .md guarantees that the file will work with markdown.
+Don't forget to add an enter after each paper, otherwise they will all clump in a single line.
 
 ## Presentation
 
