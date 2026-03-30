@@ -5,6 +5,8 @@
 
 **Topics:** statistical physics, complex systems, quantum thermo etc.
 
+**Invited speakers of interest:** Gabriel Landi, Dominik Safranek
+
 **Bonus points:** beautiful location (abbey), nice people
 
 **Deadline:** 15.04.2026
