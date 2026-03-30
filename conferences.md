@@ -1,6 +1,8 @@
 ## Upcoming interesting conferences
 
 ### MECO51 in Pont-à-Mousson, France
+**When:** 18-22 May 2026
+
 **Organized by:** Cyril Elouard et al. 
 
 **Topics:** statistical physics, complex systems, quantum thermo etc.
